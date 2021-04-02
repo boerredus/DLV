@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+video {
+    max-width: 80vw;
+    height: auto;
+    border-radius: 3px;
+}
+
+[hidden] {
+    display: none;
+}
